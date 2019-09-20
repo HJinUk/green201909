@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>center/notice변경변경변경</title>
-</head>
+< 제목 > 센터 / 공ㄹ지 사항 변경 변경 </ title >
+</ head >
 <body>
 <table border="" >
 	<tr>
