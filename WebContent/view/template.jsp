@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-< 제목 > 센터 /고객사항 변경 변경 </ title >
-</ head >
+<title> 센터 /고객사항/불만있습니다. </title >
+</head >
 <body>
 <table border="" >
 	<tr>
