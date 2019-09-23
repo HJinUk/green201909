@@ -4,7 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title > 센터 / 변경 변경 </title >
+
+<title> 센터 /고객사항/불만있습니다. </title >
+
 </head >
 <body>
 <table border="" >
